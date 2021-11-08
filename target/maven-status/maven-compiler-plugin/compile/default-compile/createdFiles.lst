@@ -1,0 +1,5 @@
+com\besugeytech\collectionsmodule\exceptions\BesugeyAuthenticationException.class
+com\besugeytech\collectionsmodule\model\CollectionUserDetails.class
+com\besugeytech\collectionsmodule\controllers\AuthenticationController.class
+com\besugeytech\collectionsmodule\CollectionsmoduleBackendApplication.class
+com\besugeytech\collectionsmodule\config\WebConfig.class
